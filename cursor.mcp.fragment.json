@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "youtube": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "github:rogue-dev-studio/rogue-youtube-mcp"
+      ],
+      "env": {
+        "YOUTUBE_API_URL": "http://127.0.0.1:8787"
+      }
+    }
+  }
+}

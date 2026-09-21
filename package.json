@@ -1,0 +1,13 @@
+{
+  "name": "rogue-youtube-mcp",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "description": "Rogue YouTube MCP - manual OAuth upload gate via a local API proxy",
+  "bin": {
+    "rogue-youtube-mcp": "./server.mjs"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.0"
+  }
+}
