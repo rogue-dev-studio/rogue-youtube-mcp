@@ -4,7 +4,7 @@
 
 Rogue YouTube MCP - manual OAuth upload gate via a local API proxy
 
-- Market: https://rogue-dev-studio.github.io/rogue-market-agent/
+- Asset Store: https://rogue-dev-studio.github.io/rogue-asset-store/
 
 ## Requirements
 
